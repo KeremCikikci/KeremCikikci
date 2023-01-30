@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @KeremCikikci
-- 👀 I’m interested in programing, electronic, chess, math and physics.
-- 🌱 I’m currently learning react native to develop android applications.
+- 👀 I’m interested in programing, electronic, math and physics.
+- 🌱 I’m currently learning about artificial intelligence with a particular focus on reinforcement learning.
 - 📫 How to reach me, you can write a mail to the 'keremcikikci@gmail.com' adress.
-
-<!---
-KeremCikikci/KeremCikikci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
