@@ -9,4 +9,4 @@ My name is Kerem and I have been developing software since I was 13 years old. I
 Discord: millen89
 
 # My Stats
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=keremCikikci&hide=contribs,prs)
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=KeremCikikci&hide=contribs,prs)
