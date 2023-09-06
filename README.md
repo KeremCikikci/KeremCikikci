@@ -8,7 +8,7 @@ My name is Kerem and I have been developing software since I was 13 years old. I
 📪 Mail: keremcikikci@gmail.com
 Discord: millen89
 
-<!--
+
 # My Stats
 [![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=KeremCikikci)](https://github.com/KeremCikikci/github-readme-stats)
--->
+
